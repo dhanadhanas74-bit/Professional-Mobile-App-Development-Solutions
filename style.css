@@ -327,17 +327,12 @@ a{
     )
 }
 
-.image-ui{background-image:url("./images/ui.png");background-size:cover;background-position:center center;background-repeat:no-repeat;}
-
-.image-map{background-image:url("./images/map.jpg");background-size:cover;background-position:center center;background-repeat:no-repeat;}
-
-.image-cloud{background-image:url("./images/cloud.jpg");background-size:cover;background-position:center center;background-repeat:no-repeat;}
-
-.image-payment{background-image:url("./images/payment.jpg");background-size:cover;background-position:center center;background-repeat:no-repeat;}
-
-.image-third{background-image:url("./images/third.jpg");background-size:cover;background-position:center center;background-repeat:no-repeat;}
-
-.image-archite{background-image:url("./images/archite.jpg");background-size:cover;background-position:center center;background-repeat:no-repeat;}
+.image-ui{background:url("./images/ui.png") center center/cover no-repeat;}
+.image-map{background:url("./images/map.jpg") center center/cover no-repeat;}
+.image-cloud{background:url("./images/cloud.jpg") center center/cover no-repeat;}
+.image-payment{background:url("./images/payment.jpg") center center/cover no-repeat;}
+.image-third{background:url("./images/third.jpg") center center/cover no-repeat;}
+.image-archite{background:url("./images/archite.jpg") center center/cover no-repeat;}
 
 .project-body{
     padding:24px
