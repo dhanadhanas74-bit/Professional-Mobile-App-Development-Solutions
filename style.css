@@ -327,59 +327,14 @@ a{
     )
 }
 
-.image-green{
-    background:linear-gradient(
-        135deg,
-        #526c54,
-        #9baa87 55%,
-        #304737
-    )
-}
+.image-ui{background-image:url("ui.png");background-size:cover;background-position:center 10%}
 
-.image-glass{
-    background:linear-gradient(
-        135deg,
-        #263b3e,
-        #7b9a9a,
-        #d7d8d0
-    )
-}
+.image-map{background-image:url("map.jpg");background-size:cover;background-position:center 10%}
 
-.image-land{
-    background:linear-gradient(
-        135deg,
-        #7e8062,
-        #bdac73,
-        #475d40
-    )
-}
-
-.image-home{
-    background:linear-gradient(
-        135deg,
-        #765f4c,
-        #c2a786,
-        #5b6b59
-    )
-}
-
-.image-city{
-    background:linear-gradient(
-        135deg,
-        #3c4c51,
-        #8b8b7d,
-        #303b32
-    )
-}
-
-.image-residence{
-    background:linear-gradient(
-        135deg,
-        #7e927a,
-        #d0b88d,
-        #4e5d4e
-    )
-}
+.image-cloud{background-image:url("cloud.jpg");background-size:cover;background-position:center}
+.image-payment{background-image:url("payment.jpg");background-size:cover;background-position:center 5%}
+.image-third{background-image:url("third.jpg");background-size:cover;background-position:center 10%}
+.image-archite{background-image:url("archite.jpg");background-size:cover;background-position:center 10%}
 
 .project-body{
     padding:24px
