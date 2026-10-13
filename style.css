@@ -377,9 +377,9 @@ a{
     position:relative
 }
 .p1{background-image:url("Eimage.jpg");background-size:cover;background-position:center 20%}
-.p1{background-image:url("onimage.webp");background-size:cover;background-position:center 20%}
-.p1{background-image:url("Fimage.webp");background-size:cover;background-position:center 20%}
-.p1{background-image:url("himage.png");background-size:cover;background-position:center 20%}
+.p2{background-image:url("onimage.webp");background-size:cover;background-position:center 20%}
+.p3{background-image:url("Fimage.webp");background-size:cover;background-position:center 20%}
+.p4{background-image:url("himage.png");background-size:cover;background-position:center 20%}
 
 .portfolio-item h3{
     font-family:"Playfair Display";
